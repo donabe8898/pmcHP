@@ -45,6 +45,9 @@ hr{
 .member .cards .card .content{
    padding: 30px;
 }
+.role{
+	font-size: 20px;
+}
 .white{
    color: #FFFFFF;
 }
