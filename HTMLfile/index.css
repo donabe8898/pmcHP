@@ -27,6 +27,9 @@ hr{
    font-style: oblique;
    text-align: center;
 }
+.text{
+   font-style: normal;
+}
 .cards{
    display: flex;
    justify-content: center;
@@ -42,12 +45,52 @@ hr{
    padding: 10px 5px;
    background-color: rgba(64,64,64,1.0);
 }
+.content .role,.name{
+   margin:5px;
+}
 .member .cards .card .content{
    padding: 30px;
 }
+.icon img{
+   border-radius: 0 0 0 0;
+   max-width: 80%;
+   height: auto;
+}
+.pictures .card{
+   width:1000px;
+   font-size: 15px;
+   text-align: center;
+   border-radius: 20px;
+   box-shadow: 0 2px 5px #ccc;
+   margin: 10px;
+   padding: 10px 5px;
+   background-color: rgba(64,64,64,1.0);
+}
+.pictures .content{
+   margin:30px;
+}
+.pic img{
+   border-radius: 0 0 0 0;
+   max-width: 80%;
+   height: auto;
+}
+.game .card{
+   width:300px;
+   font-size: 20px;
+   text-align: center;
+   border-radius: 20px;
+   box-shadow: 0 2px 5px #ccc;
+   margin: 10px;
+   padding: 10px 5px;
+   background-color: rgba(64,64,64,1.0);
+}
+
 .role{
-	font-size: 20px;
+	font-size: 15px;
 }
 .white{
    color: #FFFFFF;
+}
+.futter {
+   text-align: center;
 }
