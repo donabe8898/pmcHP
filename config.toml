@@ -34,6 +34,13 @@ navbar_items = [
 [extra.social]
 twitter = "MRT1019PMC"
 
+[extra.favicon]
+favicon_16x16 = "images/Logo.jpg"
+favicon_32x32 = "images/Logo.jpg"
+apple_touch_icon = "images/Logo.jpg"
+safari_pinned_tab = "images/Logo.jpg"
+webmanifest = "images/Logo.jpg"
+
 [extra.author]
 name = "Donabe"
 avatar = "images/Logo.jpg"
