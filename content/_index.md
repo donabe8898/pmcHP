@@ -24,6 +24,6 @@ description = "好きなものが創れる世界"
 ##### [Shirokuma](https://twitter.com/mckenchiku) : サーバーエンジニア。Bedrock鯖の構築・運営をしてくださっています。
 ##### [Donabe](https://twitter.com/A10donabe) : 情報学科生 鉄オタ。このWebサイトの管理者
 ##### [Yukimura](https://twitter.com/momijitps) : 初期メンバーの一人です。
-##### [Ikaten](https://twitter.com/Mizuyaten_Paru2) : 東方好き。建築勢の一人です。
+##### [しぐれ水天丸](https://twitter.com/Mizuyaten_Paru2) : 東方好き。建築勢の一人です。
 
 Many other members...
