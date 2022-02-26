@@ -1,0 +1,39 @@
+base_url = "https://pmc.com"
+title = "PostMineClan"
+description = "The page of PostMineClan"
+default_language = "ja"
+output_dir = "public"
+compile_sass = true
+build_search_index = false
+taxonomies = [
+    { name = "categories", feed = true, paginate_by = 10 },
+    { name = "tags", fees = true, paginate_by = 10 },
+]
+theme = "DeepThought"
+[markdown]
+highlight_code = true
+highlight_theme = "one-dark"
+render_emoji = true
+
+[extra]
+chart.enabled = true
+mermaid.enabled = true
+galleria.enabled = true
+
+navbar_items = [
+  { code = "ja",nav_items = [
+  { url = "$BASE_URL/",name = "Home" },
+  { url = "$BASE_URL/activity",name = "Activity" },
+  { url = "$BASE_URL/posts",name = "Posts" },
+  { url = "$BASE_URL/tags",name = "Tags" },
+  { url = "$BASE_URL/categories", name = "Categories" },
+ ]},
+]
+
+
+[extra.social]
+twitter = "MRT1019PMC"
+
+[extra.author]
+name = "Donabe"
+avatar = "images/Logo.jpg"
