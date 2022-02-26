@@ -20,10 +20,10 @@ description = "好きなものが創れる世界"
 # Member
 主要メンバー
 ##### [Nakam](https://twitter.com/NakaMCBE) : 鯖主です。ジャズが好き。
-##### [Kagerou](https://twitter.com/NakaMCBE) : 管理人です。ペンギンです。
-##### [Shirokuma](https://twitter.com/NakaMCBE) : サーバーエンジニア。Minecraft鯖の構築・運営をしてくださっています。
-##### [Donabe](https://twitter.com/NakaMCBE) : 情報学科生 鉄オタ。このWebサイトの管理者
-##### [Yukimura](https://twitter.com/NakaMCBE) : 初期メンバーの一人です。
-##### [Ikaten](https://twitter.com/NakaMCBE) : 東方好き。建築勢の一人です。
+##### [Kagerou](https://twitter.com/taikokagerou4) : 管理人です。ペンギンです。
+##### [Shirokuma](https://twitter.com/mckenchiku) : サーバーエンジニア。Bedrock鯖の構築・運営をしてくださっています。
+##### [Donabe](https://twitter.com/A10donabe) : 情報学科生 鉄オタ。このWebサイトの管理者
+##### [Yukimura](https://twitter.com/momijitps) : 初期メンバーの一人です。
+##### [Ikaten](https://twitter.com/Mizuyaten_Paru2) : 東方好き。建築勢の一人です。
 
-Many other member...
+Many other members...
