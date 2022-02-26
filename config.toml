@@ -12,7 +12,7 @@ taxonomies = [
 theme = "DeepThought"
 [markdown]
 highlight_code = true
-highlight_theme = "one-dark"
+highlight_theme = "monokai"
 render_emoji = true
 
 [extra]
