@@ -11,12 +11,20 @@ taxonomies = [
 ]
 theme = "DeepThought"
 generate_feed = true
-feed_filename = "atom.xml"
+feed_filename = "rss.xml"
+hard_link_static = false
+
 
 [markdown]
 highlight_code = true
 highlight_theme = "monokai"
 render_emoji = true
+
+[search]
+include_title = true
+include_description = false
+include_path = false
+include_content = true
 
 [extra]
 chart.enabled = true
