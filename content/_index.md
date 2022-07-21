@@ -2,10 +2,9 @@
 title = "PostMineClan"
 description = "好きなものが創れる世界"
 +++
-# Notify お知らせ
-***[ホームページをリニューアルしました](/activity/rework)***
 
 <br>
+<hr>
 
 # Games
 #### Minecraft Bedrock Edition
@@ -17,6 +16,7 @@ description = "好きなものが創れる世界"
 #### Golf It!
 
 <br>
+<hr>
 
 # Member
 主要メンバー
