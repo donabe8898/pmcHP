@@ -22,7 +22,7 @@ Minecraftのマルチプレイにご興味ありましたら、是非ご応募�
 8月20日まで(Twitter連絡必着)
 
 ## 参加要件
-1. Minecraft Bedrock Edition(俗にいう統合版)のアカウントを持っている
+1. Minecraft Bedrock Edition(Switch版を除く)を所持している
 2. Discordでの連絡が可能である
 
 ## 参加手続き
