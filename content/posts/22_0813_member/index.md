@@ -3,7 +3,7 @@ title = "メンバー募集のお知らせ"
 date=2022-08-13
 [taxonomies]
 categories = ["PostMineClan"]
-tags = [ "Member","Minecraft"]
+tags = ["Member","Minecraft"]
 [extra]
 toc = false
 comments = false
