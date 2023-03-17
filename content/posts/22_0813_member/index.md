@@ -35,7 +35,7 @@ PostMineClanは、ワールド刷新にあたりサーバーのメンバーを�
 4. 承認する場合、Discordグループへの招待URLを送信します。
 
 # さいごに
-PostMineClanについて、活動の軌跡はTwitterハッシュタグ `#PostMineClan` 
+PostMineClanについて、活動の軌跡はTwitterハッシュタグ `#PostMineClan`
 または、当Webサイトをご参照ください!
 <br>
 <br>

@@ -25,7 +25,7 @@ description = "好きなものが創れる世界"
 ##### [Kagerou](https://twitter.com/taikokagerou4) : 管理人。ペンギンです。
 ##### [Shirokuma](https://twitter.com/mckenchiku) : 鯖技術者。~~PMCの実権を握っているといっても過言ではない~~
 ##### [Donabe](https://twitter.com/A10donabe) : このサイトの運営者。Arch Linuxすき。
-##### [Zyashin](https://twitter.com/zyashin0319sub) : 建築、PvPなど何でもできる器用富豪。
+##### [Zyashin](https://twitter.com/zyashin0319sub) : ゲームうまい少年。
 ##### [はんちゃん](https://twitter.com/__salut) : かわいい。
 ##### [カルマ](https://twitter.com/kkkkkaruma) : つよつよ建築家。強すぎて建築大会の出禁を食らってます。
 ##### [Khoki](https://twitter.com/khoki328) : イベント運営の一人。
